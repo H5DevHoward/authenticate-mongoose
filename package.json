@@ -1,0 +1,15 @@
+{
+    "name": "authenticate-mongoose",
+    "version": "1.0.0",
+    "main": "server.js",
+    "repository": "https://github.com/H5DevHoward/authenticate-mongoose.git",
+    "author": "H5DevHoward <h5devhoward@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "express": "^4.15.3",
+        "jsonwebtoken": "^7.4.1",
+        "mongoose": "4.10.8",
+        "morgan": "^1.8.2"
+    }
+}
